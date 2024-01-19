@@ -4,4 +4,5 @@ int main(){
     printf("hello word");
     cout<<"update";
     printf("change");
+    cout<<"uon";
 }
