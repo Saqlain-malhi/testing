@@ -2,4 +2,5 @@
 using namespace std;
 int main(){
     printf("hello word");
+    cout<<"update";
 }
